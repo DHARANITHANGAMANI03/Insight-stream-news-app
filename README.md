@@ -20,4 +20,4 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/InsightStream-News-App.git
+   git clone https://github.com/DHARANITHANGAMANI03/InsightStream-News-App.git
